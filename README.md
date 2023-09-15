@@ -66,7 +66,8 @@ python manage.py runserver
     - Method: DELETE
 - swagger documentation:
 
-      - Endpoint: https://stage-two-naziff.onrender.com/swagger/
+  - Endpoint:
+    https://stage-two-naziff.onrender.com/swagger/
   
 # Testing
 You can use tools like Postman or use the API endpoints provided above.
