@@ -65,7 +65,7 @@ python manage.py runserver
     - Endpoint: https://stage-two-naziff.onrender.com/person/person/<int:pk>/delete/
     - Method: DELETE
 # Testing
-You can use tools like Postman or write automated tests using Django's testing framework to test your API endpoints.
+You can use tools like Postman or use the API endpoints provided above.
 
 # Conclusion
-You have successfully set up and run your Django REST API endpoint for managing persons. You can now use this API to create, view, update, and delete person records.
+successfully set up and run Django REST API endpoint for managing persons. This API can now be use to create, view, update, and delete person records.
