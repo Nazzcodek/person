@@ -16,10 +16,10 @@ Before you begin, ensure you have the following prerequisites installed on your 
 1. Clone the repository containing your Django project to your local machine.
 
 ```bash
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/Nazzcodek/person.git)
 
 # Navigate to the project directory.
-cd <project_directory>
+cd person
 
 # Create and activate virtualenv
 python -m venv venv
