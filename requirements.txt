@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-extensions
+graphviz
+drf-yasg[validation]
+coreapi
+gunicorn
+dj-database-url
+psycopg2
